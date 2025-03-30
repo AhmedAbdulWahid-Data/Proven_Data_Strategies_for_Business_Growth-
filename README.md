@@ -7,8 +7,6 @@
 
 ### 👉 [User Experience Metrics (HEART Framework) ❤️](https://github.com/user-attachments/files/19525187/HEART.Framework.pdf)
 
-### 👉 [Conversion Rate Optimization (CRO) 💰](https://github.com/user-attachments/files/19525186/Conversion.Rate.pdf)
-
 ### 👉 [GenAI 🤖](https://github.com/user-attachments/files/19525188/GenAI.pdf)
 
 ### 👉 [Agile Methodologies ⚙️](https://github.com/user-attachments/files/19525190/Agile.pdf)
@@ -16,6 +14,8 @@
 ### 👉 [A/B Testing Guide 🧪](https://github.com/user-attachments/files/19525192/A.B.testing.pdf)
 
 ### 👉 [A/B Testing Mistakes ❌](https://github.com/user-attachments/files/19525191/A.B.testing.mistakes.pdf)
+
+### 👉 [Conversion Rate Optimization (CRO) 💰](https://github.com/user-attachments/files/19525186/Conversion.Rate.pdf)
 
 
 ---
